@@ -1,5 +1,3 @@
-create schema netology;
-
 CREATE TABLE netology.CUSTOMERS (
     id SERIAL PRIMARY KEY,
     name VARCHAR,
